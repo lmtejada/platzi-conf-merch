@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../styles/components/app.css';
+import '../styles/components/App.css';
 
 const App = () => <h1>Hello world</h1>;
 
